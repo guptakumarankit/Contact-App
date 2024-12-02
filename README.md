@@ -26,27 +26,30 @@ A simple Content Management App built with React and Tailwind CSS. This app allo
 
 # Edit Content:
 
-(1) Each content item has an Edit button.
-(2) Clicking Edit button opens a form where you can change the title or description.
-(3) After making changes, click Save to update the content in Firestore.
+1.  Each content item has an Edit button.
+2.  Clicking Edit button opens a form where you can change the title or description.
+3.  After making changes, click Save to update the content in Firestore.
 
 # Delete Content:
 
-(1) Each content item has a Delete button.
-(2) Clicking Delete will remove the content from the list and delete it from Firestore.
+1.  Each content item has a Delete button.
+2.  Clicking Delete will remove the content from the list and delete it from Firestore.
 
 # Search by Name:
 
-(1) At the top of the app, there's a search bar.
-(2) Type the title of the content you're looking for.
-(3) The content list will filter dynamically based on your search input.
+1.  At the top of the app, there's a search bar.
+2.  Type the title of the content you're looking for.
+3.  The content list will filter dynamically based on your search input.
 
 # View Full Content Details:
 
-(1) Click on the title of any content item to reveal its full details (i.e., the description).
-(2) Click on the content again to close the details.
+1.  Click on the title of any content item to reveal its full details (i.e., the description).
+2.  Click on the content again to close the details.
 
 # Toast Notifications:
 
-(1) Toastify is used to show short and non-intrusive notifications for actions like adding, editing, or deleting content.
-(2) This gives instant feedback to the user after performing an action.
+1.  Toastify is used to show short and non-intrusive notifications for actions like adding, editing, or deleting content.
+2.  This gives instant feedback to the user after performing an action.
+
+# Website URL 
+
