@@ -44,10 +44,14 @@ const AddAndUpdateContact = ({ isOpen, onClose, isUpdate, contact }) => {
               ? {
                   name: contact.name,
                   email: contact.email,
+                  number: contact.number,
+                  address: contact.address,
                 }
               : {
                   name: "",
                   email: "",
+                  number: "",
+                  address: "",
                 }
           }
           onSubmit={(values) => {
@@ -69,6 +73,22 @@ const AddAndUpdateContact = ({ isOpen, onClose, isUpdate, contact }) => {
               <Field name="email" className="h-10 border" />
               <div className=" text-xs text-red-500">
                 <ErrorMessage name="email" />
+              </div>
+            </div>
+
+            <div className="flex flex-col gap-1">
+              <label htmlFor="number">Number</label>
+              <Field type='number' name="number" className="h-10 border" />
+              <div className="text-xs text-red-500">
+                <ErrorMessage name="number" />
+              </div>
+            </div>
+
+            <div className="flex flex-col gap-1">
+              <label htmlFor="address">Address</label>
+              <Field name="address" className="h-10 border" />
+              <div className=" text-xs text-red-500">
+                <ErrorMessage name="address" />
               </div>
             </div>
 

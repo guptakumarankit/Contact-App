@@ -65,7 +65,7 @@ function App() {
 
   return (
     <>
-      <div className="m-auto max-w-[370px]">
+      <div className="m-auto max-w-[470px]">
         <NavBar />
         <div className="flex gap-2">
           <div className="relative flex flex-grow items-center">
@@ -89,7 +89,7 @@ function App() {
         </div>
       </div>
       <AddAndUpdateContact isOpen={isOpen} onClose={onClose}/>
-      <ToastContainer position="bottom-center" />
+      <ToastContainer className='max-w-[470px]' position="bottom-center" />
     </>
   );
 }
