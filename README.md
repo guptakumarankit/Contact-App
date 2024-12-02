@@ -37,9 +37,9 @@ A simple Content Management App built with React and Tailwind CSS. This app allo
 
 4. Search by Name:
 
-(a) At the top of the app, there's a search bar.
-(b) Type the title of the content you're looking for.
-(c) The content list will filter dynamically based on your search input.
+-> At the top of the app, there's a search bar.
+-> Type the title of the content you're looking for.
+-> The content list will filter dynamically based on your search input.
 
 5. View Full Content Details:
 
