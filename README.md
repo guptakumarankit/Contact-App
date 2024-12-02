@@ -12,9 +12,9 @@ A simple Content Management App built with React and Tailwind CSS. This app allo
 
 # Tech Stack:
 
-Frontend: React, Tailwind CSS
-Backend: Firebase (Firestore for database, Firebase Auth for authentication)
-Notification: React Toastify for toast notifications
+1. Frontend: React, Tailwind CSS
+2. Backend: Firebase (Firestore for database, Firebase Auth for authentication)
+3. Notification: React Toastify for toast notifications
 
 # How to Works 
 
