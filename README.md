@@ -20,9 +20,9 @@ A simple Content Management App built with React and Tailwind CSS. This app allo
 
 # Add Content:
 
-(1) Click on the plus (+) button to open a modal.
-(2) Enter the title and description in the modal form.
-(3) Click Add to save the content, which will be stored in Firebase Firestore.
+a.  Click on the plus (+) button to open a modal.
+b.  Enter the title and description in the modal form.
+c.  Click Add to save the content, which will be stored in Firebase Firestore.
 
 # Edit Content:
 
