@@ -18,35 +18,35 @@ A simple Content Management App built with React and Tailwind CSS. This app allo
 
 # How to Works 
 
-1. Add Content:
+# Add Content:
 
-(a) Click on the plus (+) button to open a modal.
-(b) Enter the title and description in the modal form.
-(c) Click Add to save the content, which will be stored in Firebase Firestore.
+(1) Click on the plus (+) button to open a modal.
+(2) Enter the title and description in the modal form.
+(3) Click Add to save the content, which will be stored in Firebase Firestore.
 
-2. Edit Content:
+# Edit Content:
 
-(a) Each content item has an Edit button.
-(b) Clicking Edit button opens a form where you can change the title or description.
-(c) After making changes, click Save to update the content in Firestore.
+(1) Each content item has an Edit button.
+(2) Clicking Edit button opens a form where you can change the title or description.
+(3) After making changes, click Save to update the content in Firestore.
 
-3. Delete Content:
+# Delete Content:
 
-(a) Each content item has a Delete button.
-(b) Clicking Delete will remove the content from the list and delete it from Firestore.
+(1) Each content item has a Delete button.
+(2) Clicking Delete will remove the content from the list and delete it from Firestore.
 
-4. Search by Name:
+# Search by Name:
 
--> At the top of the app, there's a search bar.
--> Type the title of the content you're looking for.
--> The content list will filter dynamically based on your search input.
+(1) At the top of the app, there's a search bar.
+(2) Type the title of the content you're looking for.
+(3) The content list will filter dynamically based on your search input.
 
-5. View Full Content Details:
+# View Full Content Details:
 
-(a) Click on the title of any content item to reveal its full details (i.e., the description).
-(b) Click on the content again to close the details.
+(1) Click on the title of any content item to reveal its full details (i.e., the description).
+(2) Click on the content again to close the details.
 
-6. Toast Notifications:
+# Toast Notifications:
 
-(a) Toastify is used to show short and non-intrusive notifications for actions like adding, editing, or deleting content.
-(b) This gives instant feedback to the user after performing an action.
+(1) Toastify is used to show short and non-intrusive notifications for actions like adding, editing, or deleting content.
+(2) This gives instant feedback to the user after performing an action.
