@@ -1,5 +1,5 @@
 # Content Management App
-A simple Content Management App built with React and Tailwind CSS. This app allows users to add, edit, delete, search, and view content details easily.
+A simple Content Management App built with React and Tailwind CSS. This app allows users to add, edit, delete, search, and view content if content is present else display not found details easily.
 
 # Features:
 
