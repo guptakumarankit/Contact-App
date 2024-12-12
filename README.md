@@ -7,7 +7,7 @@ A simple Contact Management App built with React and Tailwind CSS. This app allo
 2. Edit Contact: Each Contact item has an "Edit" button that opens a form where you can update the title or description of the Contact.
 3. Delete Contact: Each Contact item has a "Delete" button to remove it from the app and Firebase.
 4. Search by Name: You can search for Contact by title using a search bar at the top of the page. The Contact list will update dynamically based on your search query.
-5. View Full Content Details: You can click on any Contact's title to view the full details. Clicking the Contact area again will close the details.
+5. View Full Contact Details: You can click on any Contact's title to view the full details. Clicking the Contact area again will close the details.
 6. Responsive Design: The app is fully responsive, ensuring a smooth experience on both desktop and mobile devices.
 
 # Tech Stack:
