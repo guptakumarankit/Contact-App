@@ -1,5 +1,5 @@
 # Contact Management App
-A simple Contact Management App built with React and Tailwind CSS. This app allows users to add, edit, delete, search, and view content if content is present else display not found details easily.
+A simple Contact Management App built with React and Tailwind CSS. This app allows users to add, edit, delete, search, and view Contact if Contact is present else display not found details easily.
 
 # Features:
 
