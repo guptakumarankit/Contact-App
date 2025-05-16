@@ -52,5 +52,4 @@ A simple Contact Management App built with React and Tailwind CSS. This app allo
 2.  This gives instant feedback to the user after performing an action.
 
 # Website URL 
-
-https://guptakumarankit.github.io/Contact-App/
+https://contact-app-gamma-two.vercel.app/
